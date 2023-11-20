@@ -1,2 +1,2 @@
-# for_ai
-personal ai study
+# 사랑니 발치 관련 코드들
+
